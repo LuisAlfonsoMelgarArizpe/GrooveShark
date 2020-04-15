@@ -17,4 +17,9 @@ app.get("/registro", (req, res) => {
   res.text("Usuario Registrado!!!");
 });
 
+app.get("/login", (req, res) => {
+  res.text("Login Correcto");
+});
+
+
 // SE AJUSTARON LAS VERSIONES xd
