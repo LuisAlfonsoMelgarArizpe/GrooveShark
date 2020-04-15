@@ -8,3 +8,8 @@ app.listen(4000, () => {
 app.get("/holamundo",(req,res)=>{
 	res.text("hola mundo");
 })
+
+
+app.get("/holamundo",(req,res)=>{
+	res.text("Almacenaje");
+})
