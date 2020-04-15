@@ -13,3 +13,5 @@ app.get("/holamundo",(req,res)=>{
 app.get("/almacenaje",(req,res)=>{
 	res.text("Almacenaje");
 })
+
+// SE AJUSTARON LAS VERSIONES xd
