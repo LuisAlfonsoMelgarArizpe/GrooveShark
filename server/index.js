@@ -10,6 +10,6 @@ app.get("/holamundo",(req,res)=>{
 })
 
 
-app.get("/holamundo",(req,res)=>{
+app.get("/almacenaje",(req,res)=>{
 	res.text("Almacenaje");
 })
