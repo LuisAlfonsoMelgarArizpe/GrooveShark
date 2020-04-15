@@ -22,4 +22,10 @@ app.get("/login", (req, res) => {
 });
 
 
+
 // SE AJUSTARON LAS VERSIONES xd
+
+
+app.get("/perfil", (req, res) => {
+  res.text("Perfil del usuario");
+});
