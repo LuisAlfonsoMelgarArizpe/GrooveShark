@@ -27,5 +27,5 @@ app.get("/login", (req, res) => {
 
 
 app.get("/perfil", (req, res) => {
-  res.text("Perfil del usuario");
+  res.text("Perfil del usuario finalizado");
 });
