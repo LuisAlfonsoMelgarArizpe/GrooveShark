@@ -34,3 +34,5 @@ app.post("/buscarUsuario", (req, res) => {
   res.text("Usuario encontrado!");
 });
 
+// Se solucionaron algunos errores
+
