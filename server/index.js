@@ -36,3 +36,6 @@ app.post("/buscarUsuario", (req, res) => {
 
 // Se solucionaron algunos errores
 
+app.post('/cargarCanciones',(req, res) => {
+  res.text("Canciones cargadas con exito!");
+});
