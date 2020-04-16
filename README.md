@@ -9,3 +9,6 @@
 * ### Creacion del Servidor Web
 * ### Creacion del servicio de almacenaje
 * ### Crear la aplicacion Web
+
+## Version 1.1.0 
+* ### Modificar modulo de perfil
