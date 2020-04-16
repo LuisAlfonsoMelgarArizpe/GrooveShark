@@ -21,10 +21,7 @@ app.get("/login", (req, res) => {
   res.text("Login Correcto");
 });
 
-
-
 // SE AJUSTARON LAS VERSIONES xd
-
 
 app.get("/perfil", (req, res) => {
   res.text("Perfil del usuario finalizado");
@@ -36,6 +33,10 @@ app.post("/buscarUsuario", (req, res) => {
 
 // Se solucionaron algunos errores
 
-app.post('/cargarCanciones',(req, res) => {
+app.post("/cargarCanciones", (req, res) => {
   res.text("Canciones cargadas con exito!");
+});
+
+app.get("/buscarCanciones", (req, res) => {
+  res.text("Lista de canciones que hacen match con la busqueda");
 });
