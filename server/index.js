@@ -41,7 +41,10 @@ app.get("/buscarCanciones", (req, res) => {
   res.text("Lista de canciones que hacen match con la busqueda");
 });
 
-
 app.get("favCanciones", (req, res) => {
   res.text("Lista de canciones favoritas");
+});
+
+app.get("/descargarCancion", (req, res) => {
+  res.text("Descarga la cancion seleccionada");
 });
