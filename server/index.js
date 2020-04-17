@@ -49,5 +49,19 @@ app.get("/descargarCancion", (req, res) => {
   res.text("Descarga la cancion seleccionada");
 });
 
-
 // SE CORRIGIERON ALGUNOS ERRORES DE IMPLEMENTACION EN EL RELEASE
+app.post("/crearPlaylist", (req, res) => {
+  res.text("Crear Playlist");
+});
+
+app.post("/anadirCancion", (req, res) => {
+  res.text("añadir cancion");
+});
+
+app.get("/visualizarPlaylist", (req, res) => {
+  res.text("La playlist que se esta visualizando.");
+});
+
+app.get("/buscarPlaylist", (req, res) => {
+  res.text("Lista de playlist que coincide con la busqueda.");
+});
