@@ -48,3 +48,6 @@ app.get("favCanciones", (req, res) => {
 app.get("/descargarCancion", (req, res) => {
   res.text("Descarga la cancion seleccionada");
 });
+
+
+// SE CORRIGIERON ALGUNOS ERRORES DE IMPLEMENTACION EN EL RELEASE
