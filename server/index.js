@@ -49,5 +49,7 @@ app.get("/descargarCancion", (req, res) => {
   res.text("Descarga la cancion seleccionada");
 });
 
-
+app.post("/crearPlaylist", (req, res) => {
+  res.text("Crear Playlist");
+});
 // SE CORRIGIERON ALGUNOS ERRORES DE IMPLEMENTACION EN EL RELEASE
