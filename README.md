@@ -1,4 +1,8 @@
 # GrooveShark (Software Dev Ops)
+## Version 3.0.0
+
+- ### Crear modulo Favoritos
+- ### Crear modulo Descarga
 
 ## Version 2.1.0
 
