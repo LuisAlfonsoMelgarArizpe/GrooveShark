@@ -1,5 +1,10 @@
 # GrooveShark (Software Dev Ops)
 
+## Version 2.1.0
+
+- ### Crear modulo Carga de canciones
+- ### Crear modulo busqueda
+
 ## Version 2.0.0
 
 - ### Modificar modulo de perfil
