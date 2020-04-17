@@ -52,4 +52,7 @@ app.get("/descargarCancion", (req, res) => {
 app.post("/crearPlaylist", (req, res) => {
   res.text("Crear Playlist");
 });
+app.post("/anadirCancion", (req, res) => {
+  res.text("añadir cancion");
+});
 // SE CORRIGIERON ALGUNOS ERRORES DE IMPLEMENTACION EN EL RELEASE
