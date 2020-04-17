@@ -65,3 +65,7 @@ app.get("/visualizarPlaylist", (req, res) => {
 app.get("/buscarPlaylist", (req, res) => {
   res.text("Lista de playlist que coincide con la busqueda.");
 });
+
+app.post("/favoritosPlaylist", (req, res) => {
+  res.text("Playlist agregada a favoritos.");
+});
