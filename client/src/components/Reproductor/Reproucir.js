@@ -7,9 +7,7 @@ class Reproducir extends React.Component {
   }
 }
 
+function cambiarVolumen(volumen) {}
 
-function cambiarVolumen(volumen){
-  
-}
-
+function moverReproduccion(segundo) {}
 export default Reproducir;

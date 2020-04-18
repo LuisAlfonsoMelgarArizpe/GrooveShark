@@ -88,13 +88,9 @@ app.get("/cancionAnterior", (req, res) => {
   );
 });
 app.get("/cambioCancion", (req, res) => {
-  res.text(
-    "Cambiando de cancion...."
-  );
+  res.text("Cambiando de cancion....");
 });
 
 app.get("/cambioVolumen", (req, res) => {
   res.text("Se cambio el volumen");
 });
-
-
