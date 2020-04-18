@@ -1,5 +1,9 @@
 # GrooveShark (Software Dev Ops)
 
+## Version 4.1.0
+
+- ### Crear modulo Añadir Playlist a Lista de Favoritos
+
 ## Version 4.0.0
 
 - ### Crear modulo Crear playlist
