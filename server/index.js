@@ -75,3 +75,15 @@ app.post("/favoritosPlaylist", (req, res) => {
 app.get("/reproducirCancion", (req, res) => {
   res.text("Playlist agregada a favoritos.");
 });
+
+app.get("/cancionSiguiente", (req, res) => {
+  res.text(
+    "Obtener canción siguiente de la playlist, ya sea en orden o en shuffle."
+  );
+});
+
+app.get("/cancionAnterior", (req, res) => {
+  res.text(
+    "Obtener canción anterior de la playlist, ya sea en orden o en shuffle."
+  );
+});
