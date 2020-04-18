@@ -86,4 +86,8 @@ app.get("/cancionAnterior", (req, res) => {
   res.text(
     "Obtener canción anterior de la playlist, ya sea en orden o en shuffle."
   );
+app.get("/cambioCancion", (req, res) => {
+  res.text(
+    "Cambiando de cancion...."
+  );
 });
