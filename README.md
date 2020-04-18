@@ -1,5 +1,12 @@
 # GrooveShark (Software Dev Ops)
 
+## Version 5.0.0
+- ### Creacion modulo Reproduccion
+- ### Creacion Modo de reproduccion
+- ### Creacion Cambio de cancion
+- ### Creacion Cambio de Volumen
+- ### Creacion Adelantar/Retrodeder
+
 ## Version 4.1.0
 
 - ### Crear modulo Añadir Playlist a Lista de Favoritos
