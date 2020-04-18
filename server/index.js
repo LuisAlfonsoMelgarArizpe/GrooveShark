@@ -69,3 +69,5 @@ app.get("/buscarPlaylist", (req, res) => {
 app.post("/favoritosPlaylist", (req, res) => {
   res.text("Playlist agregada a favoritos.");
 });
+
+// Se solucionaron mas errores
