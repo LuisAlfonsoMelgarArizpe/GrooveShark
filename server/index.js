@@ -71,3 +71,7 @@ app.post("/favoritosPlaylist", (req, res) => {
 });
 
 // Se solucionaron mas errores
+
+app.get("/reproducirCancion", (req, res) => {
+  res.text("Playlist agregada a favoritos.");
+});
