@@ -4,6 +4,7 @@
 
 - ### Ricardo Antonio Menéndez Tobías / 201602916
 - ### Luis Alfonso Melgar Arizpe / 201602916
+- ### Herberth Josue Argueta Aragon / 201602634
 
 ## Version 5.0.0
 
