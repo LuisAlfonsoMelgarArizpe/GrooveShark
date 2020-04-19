@@ -1,6 +1,11 @@
 # GrooveShark (Software Dev Ops)
 
+## Revisiones Finales
+
+- ### Ricardo Antonio Menéndez Tobías / 201602916
+
 ## Version 5.0.0
+
 - ### Creacion modulo Reproduccion
 - ### Creacion Modo de reproduccion
 - ### Creacion Cambio de cancion
