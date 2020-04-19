@@ -3,6 +3,7 @@
 ## Revisiones Finales
 
 - ### Ricardo Antonio Menéndez Tobías / 201602916
+- ### Luis Alfonso Melgar Arizpe / 201602916
 
 ## Version 5.0.0
 
